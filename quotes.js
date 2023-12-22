@@ -1,0 +1,35 @@
+const scientistQuotes = [
+    "Imagination is more important than knowledge. — Albert Einstein",
+    "Nothing in life is to be feared, it is only to be understood. - Marie Curie",
+    "However difficult life may seem, there is always something you can do and succeed at. - Stephen Hawking",
+    "If I have seen further it is by standing on the shoulders of Giants. - Isaac Newton",
+    "Somewhere, something incredible is waiting to be known. - Carl Sagan",
+    "The first principle is that you must not fool yourself – and you are the easiest person to fool. - Richard Feynman",
+    "All truths are easy to understand once they are discovered; the point is to discover them. - Galileo Galilei",
+    "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. - Nikola Tesla",
+    "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change. - Charles Darwin",
+    "What you do makes a difference, and you have to decide what kind of difference you want to make. - Jane Goodall",
+    "Science and everyday life cannot and should not be separated. - Rosalind Franklin",
+    "Nothing is too wonderful to be true if it be consistent with the laws of nature. - Michael Faraday",
+    "An expert is a person who has made all the mistakes that can be made in a very narrow field. - Neils Bohr",
+    "Genius is one percent inspiration and ninety-nine percent perspiration. - Thomas Edison",
+    "That brain of mine is something more than merely mortal; as time will show. - Ada Lovelace",
+    "Work, look for peace and calm in work: you will find it nowhere else. - Dmitri Mendeleev",
+    "The task is, not so much to see what no one has yet seen; but to think what nobody has yet thought, about that which everybody sees. - Erwin Schrödinger",
+    "Thoroughly conscious ignorance is the prelude to every real advance in science. - James Clerk Maxwell",
+    "Science makes people reach selflessly for truth and objectivity; it teaches people to accept reality, with wonder and admiration. - Lise Meitner",
+    "The most erroneous stories are those we think we know best – and therefore never scrutinize or question. - Stephen Jay Gould",
+    "What I cannot create, I do not understand. - Richard P. Feynman",
+    "Be less curious about people and more curious about ideas. - Marie Curie",
+    "We're made of star stuff. We are a way for the cosmos to know itself. - Carl Sagan",
+    "Intelligence is the ability to adapt to change. - Stephen Hawking",
+    "Look deep into nature, and then you will understand everything better. - Albert Einstein",
+    "To every action there is always opposed an equal reaction. - Isaac Newton",
+    "The greatest danger to our future is apathy. - Jane Goodall",
+    "A man who dares to waste one hour of time has not discovered the value of life. - Charles Darwin",
+    "Science and everyday life cannot and should not be separated. - Rosalind Franklin",
+    "Everything we call real is made of things that cannot be regarded as real. - Niels Bohr"
+];
+
+export { scientistQuotes };
+

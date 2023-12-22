@@ -1,0 +1,40 @@
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    color: #000;
+}
+
+.quote {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+.quote-button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.quote-button:hover {
+    background-color: #333;
+}
